@@ -1,5 +1,4 @@
 <?php
-	echo "<bg color='yellow'>";
     echo "<h2>Count Function</h2>";
     $arr = array('php','c','c++','java','Android'); 
     echo count($arr);
