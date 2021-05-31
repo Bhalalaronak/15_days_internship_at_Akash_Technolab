@@ -6,6 +6,8 @@ Day-1
  1. Table Tag     
  2. Website Using HTML and CSS
  3. Registration Form
+
+
 Day-2
 
  1. Welcome to PHP 
@@ -13,14 +15,17 @@ Day-2
  3. if...else in PHP 
  4. Switch case in PHP 
  5. For Loop in PHP 
- 6. and other programs 
+ 6. and other C static programs like leap year etc. 
 
 Day-3
 
  1. For Loop program using Table Tag 
- 2. get and post method
- 3. Registration Form Using PHP 
- 4. Students Marks Entry Form Using PHP 
+ 2. convert day 2's static program dynamic through form
+ 3. get and post method
+ 4. Registration Form Using PHP 
+ 5. Students Marks Entry Form Using PHP 
+ 
+ 
 Day-4
 
  1. PHP Template Integration
