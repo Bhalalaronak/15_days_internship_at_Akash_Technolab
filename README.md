@@ -45,3 +45,10 @@ Day-7
  2. Assosiative Array
  3. Array Functions
       - Total 30 Functions
+
+Day -8 
+
+ 1. Database connection.
+ 2. insertion operation in php.
+ 3. perform insertion operation without theme
+ 4. perform insertion operation with theme
