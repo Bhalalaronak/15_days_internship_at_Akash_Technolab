@@ -52,3 +52,9 @@ Day -8
  2. insertion operation in php.
  3. perform insertion operation without theme
  4. perform insertion operation with theme
+
+Day - 9
+ 1. learning about select and delete query
+ 2. perform deletion operation in php both softdeletion and hard deletion.
+ 3. learn to fetching data from database
+ 4. redirection on pages
