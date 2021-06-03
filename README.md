@@ -6,6 +6,7 @@ Day-1
  1. Table Tag     
  2. Website Using HTML and CSS
  3. Registration Form
+ 4. Features of git and application of it basic working of git in project development. Understand the git.
 
 
 Day-2
