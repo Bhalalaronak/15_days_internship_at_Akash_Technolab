@@ -17,6 +17,11 @@ Day-2
  4. Switch case in PHP 
  5. For Loop in PHP 
  6. and other C static programs like leap year etc. 
+ 7.Date & Time Function in PHP 
+ 8. Math Functions in PHP
+ 9. String Functioins in PHP
+ 10. Function in PHP
+ 11. array in php
 
 Day-3
 
@@ -44,11 +49,7 @@ Day-7
 
  1. Numerical Array, Index Dynamic Array
  2. Assosiative Array
- 3. Date & Time Function in PHP 
- 4. Math Functions in PHP
- 5. String Functioins in PHP
- 6. Function in PHP
- 7. Array Functions
+ 3. Array Functions
       - Total 30 Functions
 
 Day -8 
