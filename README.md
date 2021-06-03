@@ -59,3 +59,7 @@ Day - 9
  2. perform deletion operation in php both softdeletion and hard deletion.
  3. learn to fetching data from database
  4. redirection on pages
+
+Day - 10 
+ 1. Learning a update query and embed into theme.
+ 2. Perform update operations on table 
