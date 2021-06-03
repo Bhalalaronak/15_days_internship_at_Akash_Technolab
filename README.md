@@ -44,7 +44,11 @@ Day-7
 
  1. Numerical Array, Index Dynamic Array
  2. Assosiative Array
- 3. Array Functions
+ 3. Date & Time Function in PHP 
+ 4. Math Functions in PHP
+ 5. String Functioins in PHP
+ 6. Function in PHP
+ 7. Array Functions
       - Total 30 Functions
 
 Day -8 
