@@ -17,7 +17,7 @@ Day-2
  4. Switch case in PHP 
  5. For Loop in PHP 
  6. and other C static programs like leap year etc. 
- 7.Date & Time Function in PHP 
+ 7. Date & Time Function in PHP 
  8. Math Functions in PHP
  9. String Functioins in PHP
  10. Function in PHP
