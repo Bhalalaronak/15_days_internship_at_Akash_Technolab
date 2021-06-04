@@ -68,3 +68,8 @@ Day - 9
 Day - 10 
  1. Learning a update query and embed into theme.
  2. Perform update operations on table 
+
+Day - 11
+1. Installation and learing about wordpress
+2. Features and defects of wordpress
+3. simple blog creation using wordpress
