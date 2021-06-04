@@ -72,4 +72,5 @@ Day - 10
 Day - 11
 1. Installation and learing about wordpress
 2. Features and defects of wordpress
-3. simple blog creation using wordpress
+3. undarstanding a wordpress development environment.
+4. simple blog creation using wordpress
