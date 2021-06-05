@@ -78,6 +78,8 @@ Day - 11
 Day - 12
 1. Installation of plugins and use of it
 2. Theme customization and development in wordpress 
+3. Started report creation 
 
 
 Day - 13 
+1. 
