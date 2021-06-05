@@ -74,3 +74,10 @@ Day - 11
 2. Features and defects of wordpress
 3. undarstanding a wordpress development environment.
 4. simple blog creation using wordpress
+
+Day - 12
+1. Installation of plugins and use of it
+2. Theme customization and development in wordpress 
+
+
+Day - 13 
