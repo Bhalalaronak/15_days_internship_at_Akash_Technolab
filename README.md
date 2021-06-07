@@ -95,4 +95,4 @@ Day - 15
 
 1. Learning web hosting in 000webhost
 2. Task submission work
-3. Report creation 
+3. Report creation
