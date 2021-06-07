@@ -43,7 +43,6 @@ Day-5
 
 Day-6
 1. integration work in theme3
-2. learning hosting on 000webhost
 
 Day-7
 
@@ -91,3 +90,9 @@ Day - 13
 Day -14 
 
 1. Adding login into crud operation
+
+Day - 15
+
+1. Learning web hosting in 000webhost
+2. Task submission work
+3. Report creation 
