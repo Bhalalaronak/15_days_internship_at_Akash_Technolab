@@ -87,3 +87,7 @@ Day - 13
 1. Remaining work completion 
 2. Task uplodation work on git
 3. Editing on wordpress site 
+
+Day -14 
+
+1. Adding login into crud operation
